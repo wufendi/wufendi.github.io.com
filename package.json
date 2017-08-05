@@ -1,0 +1,11 @@
+{
+  "name": "fendiwu",
+  "version": "1.0.0",
+  "description": "fendi first blogsite",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "fendiwu",
+  "license": "ISC"
+}
